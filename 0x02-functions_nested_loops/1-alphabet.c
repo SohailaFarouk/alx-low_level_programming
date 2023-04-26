@@ -2,9 +2,7 @@
 
 
 	/**
-	 * main - print _putchar
-	 * is written by sohaila
-	 * Return: 0
+	 * print_alphabet - print all alphabet in lowercase
 	 */
 
 
